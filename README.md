@@ -2,10 +2,10 @@
 
 A Software Developer from Izmir/Turkey
 
-- 🌱 I’m currently learning Vue.js, Node.js
+- 🌱 I’m currently learning Node.js
 - 💬 Ask me about Node.js
 - 📫 How to reach me: kemalloncel@gmail.com
-- 
+
 ### Connect with me:
 
 <p align="left">
@@ -38,9 +38,8 @@ A Software Developer from Izmir/Turkey
 <a href="https://www.netlify.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/c8a3dd0309eabdf69cf932a8450e2711307502a47703c54024f4678c41d497ba/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f70726573732f6c6f676f732f6c6f676f6d61726b2e706e67" alt="netlify" width="30" height="30" data-canonical-src="https://www.netlify.com/img/press/logos/logomark.png" style="max-width: 100%;"> </a>
 <a href="https://trello.com/en" rel="nofollow"> <img src="https://camo.githubusercontent.com/5da402096f63fafffd2d8afacdecf0029aa989c899149f9836c135ab3d130a6d/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f7472656c6c6f2d362d3536393339352e706e67" alt="trello" width="30" height="30" data-canonical-src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" style="max-width: 100%;"> </a>
 
-<!-- <div>
+ <div>
   <a href="https://github.com/kemaloncell">
-  <img height="180em" src="https://camo.githubusercontent.com/953dd37976777f858b122763c51efc2bfe824f9ac2349e54cb93d85ede1a0452/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7261666162616c6c6572696e692673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kemaloncell&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/73dc596043c316d78c506d53f5c0e74709f261e552f7073aeadef8a1a561d966/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7261666162616c6c6572696e69266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaloncell&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
-</a></div>
- -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemaloncell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaloncell&layout=compact&langs_count=7&theme=dracula"/>
+</div>
