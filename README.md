@@ -8,9 +8,8 @@
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Node.js
 - 📫 How to reach me: kemalloncel@gmail.com
-- youca
+- 
 ### Connect with me:
-
 <p align="left">
 <a href="https://www.linkedin.com/in/kemaloncell/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b0d679e1e6f51de0daaaf64a827865ef3884b73b1902a3a42dc42dc56f925b1d/68747470733a2f2f76656c616e6f76617363756c61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564496e2e706e67" alt="mustafafrw" height="30" width="30" data-canonical-src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/kemaloncell" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/c5c19c5a327e7adb30fe7f40b2a4e30433355e27dd48fb0393bc589412c25496/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f3132303070782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" alt="mustafa9516" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" style="max-width: 100%;"></a>
