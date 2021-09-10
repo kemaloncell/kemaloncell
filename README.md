@@ -1,6 +1,9 @@
-### Hi 👋, I'm Kemal
+  <h1 align="center"> Hi 👋, I'm Kemal</h1>
+  
+  <p align="center"> A Software Developer from Izmir/Turkey</p>
+  
 
-A Software Developer from Izmir/Turkey
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaloncell" alt="kemal" data-canonical-src="https://github-profile-trophy.vercel.app/?username=kemaloncell" style="max-width: 100%;"></a> </p>
 
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Node.js
