@@ -9,9 +9,7 @@
 - 💬 Ask me about Node.js
 - 📫 How to reach me: kemalloncel@gmail.com
 ### My YouTube channel:https://l24.im/2zwqL15
-<p align="left">
-<a href=”https://www.youtube.com/channel/UCIITqUh-XeXPpJabAeWmqoQ">![Kemal Öncel ](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-</p>
+
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kemaloncell/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b0d679e1e6f51de0daaaf64a827865ef3884b73b1902a3a42dc42dc56f925b1d/68747470733a2f2f76656c616e6f76617363756c61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564496e2e706e67" alt="mustafafrw" height="30" width="30" data-canonical-src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" style="max-width: 100%;"></a>
