@@ -12,6 +12,7 @@
  <div><a href="https://github.com/kemaloncell"> 
   </a><a href="https://www.youtube.com/channel/UCIITqUh-XeXPpJabAeWmqoQ" rel="nofollow"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
+
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kemaloncell/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b0d679e1e6f51de0daaaf64a827865ef3884b73b1902a3a42dc42dc56f925b1d/68747470733a2f2f76656c616e6f76617363756c61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564496e2e706e67" alt="mustafafrw" height="30" width="30" data-canonical-src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" style="max-width: 100%;"></a>
