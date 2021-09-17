@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Node.js
 - 📫 How to reach me: kemalloncel@gmail.com
-### My YouTube channel:https://l24.im/2zwqL15
+### My YouTube channel:https://bul.tc/PlHh
 
 ### Connect with me:
 <p align="left">
