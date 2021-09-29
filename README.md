@@ -21,8 +21,14 @@
 
 ### Technologies:
 <p align="left"> 
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="max-width: 100%;"> </a> 
-<a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" style="max-width: 100%;"> </a> -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="max-width: 100%;"> </a> 
+<a href="https://nodejs.org/en/" rel="nofollow">
+<img alt="Node.js" width="30" height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a>
+ <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" style="max-width: 100%;"> </a>
+  
+<a href="https://reactjs.org/" rel="nofollow">
+  <img  alt="React" width="30" height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
+  
 <!-- <a href="https://nuxtjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/f12c0a3b62012952e42b55631e2256b1f3f13ee799699d916ec37a589664805e/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f366666333465633837363033313862393938383865653462373564316532363531373061383462392f36343739632f6c6f676f732f6e7578742e737667" alt="nuxtjs" width="30" height="30" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg" style="max-width: 100%;"> </a> -->
 <!-- <a href="https://vuetifyjs.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/87e2c2c9dfa5c02dd478e3e6ea6a145aeaf22a8ecc9882f568cb8edb8810a0ae/68747470733a2f2f63646e2e767565746966796a732e636f6d2f646f63732f696d616765732f6c6f676f732f767565746966792d6c6f676f2d6461726b2d61746f6d2e737667" alt="vuetify" width="30" height="30" data-canonical-src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" style="max-width: 100%;"> </a> -->
 
@@ -38,7 +44,7 @@
 </p>
 
 ### Tools:
-
+<a href="https://www.hackerrank.com/kemaloncel" rel="nofollow"> <img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="hackerrank_logo"  width="30" height="30" > </a>
 <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="vscode" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;"> </a>
 <a href="https://discord.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/9197204cb5fe8007252fd5b2b6cc47b9c4318e16836fe645eccd35941b9ecb9c/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732f3531322f39315f446973636f72645f6c6f676f5f6c6f676f732d3531322e706e67" alt="discord" width="30" height="30" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" style="max-width: 100%;"> </a>
 <a href="https://slack.com/intl/en-tr/" rel="nofollow"> <img src="https://camo.githubusercontent.com/73fdb461f704939668ec688c0e78b801cd5dd742c77e19b0bcc4284be5137158/68747470733a2f2f63646e2e6272616e64666f6c6465722e696f2f35483434324f33572f61732f706c3534366a2d376c65387a6b2d346e7a7a73312f536c61636b5f4d61726b5f5765622e706e67" alt="slack" width="37" height="37" data-canonical-src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" style="max-width: 100%;"> </a>
