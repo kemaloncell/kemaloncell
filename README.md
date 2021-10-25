@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaloncell" alt="kemal" data-canonical-src="https://github-profile-trophy.vercel.app/?username=kemaloncell" style="max-width: 100%;"></a> </p>
 
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about Node.js
+- 🌱 I’m currently learning Node.js, Vue.js
+- 💬 Ask me about Node.js and Vue.js
 - 📫 How to reach me: kemalloncel@gmail.com
 ### My YouTube channel:
  <div><a href="https://github.com/kemaloncell"> 
